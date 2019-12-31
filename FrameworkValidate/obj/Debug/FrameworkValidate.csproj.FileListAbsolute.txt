@@ -1,0 +1,15 @@
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.csprojAssemblyReference.cache
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\MainWindow.g.cs
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\App.g.cs
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate_MarkupCompile.cache
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate_MarkupCompile.lref
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\bin\Debug\FrameworkValidate.exe.config
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\bin\Debug\FrameworkValidate.exe
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\bin\Debug\FrameworkValidate.pdb
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\MainWindow.baml
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.g.resources
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.Properties.Resources.resources
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.csproj.GenerateResource.cache
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.csproj.CoreCompileInputs.cache
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.exe
+C:\Users\lttttoai\source\repos\FrameworkValidate\FrameworkValidate\obj\Debug\FrameworkValidate.pdb
